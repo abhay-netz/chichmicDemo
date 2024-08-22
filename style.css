@@ -1319,6 +1319,10 @@ footer a:hover {
         padding: 0px 10px;
     }
 
+    .box-image-heading {
+        gap:10px;
+    }
+
     .banner {
         margin-top: 50px;
         padding: 50px 0px;
