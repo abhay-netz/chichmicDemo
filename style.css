@@ -1356,7 +1356,11 @@ footer a:hover {
 
     .accordion-heading,
     .accordion-heading.active {
-        padding: 6px 50px 6px 20px;
+        padding: 6px 40px 6px 20px;
+    }
+
+    .currency-date {
+        gap:15px;
     }
 
     .accordion-heading>p {
